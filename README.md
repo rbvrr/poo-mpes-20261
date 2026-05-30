@@ -5,6 +5,17 @@
 ## Objetivo
 Desenvolver uma aplicação web utilizando Python, Flask, HTML e Pandas que permita o cadastro de alunos através de um formulário web, armazenando os dados em um arquivo CSV.
 
+## Equipe 
+
+> Grupo 3
+
+- Rebeca Andrade Bivar
+- Jorge Alexandre Araújo
+- Eudes Rego Sousa Silva
+- Paulo Henrique Bezerra da Silva
+- Evelyn Karinne Macedo Mota Silva
+- Diego de Souza Pinto
+  
 ---
 
 ## Requisitos do Projeto
